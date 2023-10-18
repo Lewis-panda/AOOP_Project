@@ -20,6 +20,7 @@
 - ```Include image processing capabilities```
 - ```Develop a chat room for communication between buyers and sellers```
 - ```SMTP```
+- ```MySQL```
 ---
 ## Some Picture
 ### Log in and Register
