@@ -3,22 +3,22 @@
 ### Object Oriented Programming Project
 ---
 ## Completed Completed Functionalities
-- Create a user GUI interface
-- Implement user account creation and login functionality
-- Support both buyer and seller roles
-- Allow buyers to search for products
-- Enable sellers to list products
-- Establish a product database
-- Enable users to add products to their shopping cart
-- Implement order submission
-- View historical orders
-- Optimize user experience with CSS
-- Develop the server-side
-- Build the client application
-- Implement SQL database operations
-- Include image processing capabilities
-- Develop a chat room for communication between buyers and sellers
-- SMTP
+- ```Create a user GUI interface```
+  ```Implement user account creation and login functionality```
+- ```Support both buyer and seller roles```
+- ```Allow buyers to search for products```
+- ```Enable sellers to list products```
+- ```Establish a product database```
+- ```Enable users to add products to their shopping cart```
+- ```Implement order submission```
+- ```View historical orders```
+- ```Optimize user experience with CSS```
+- ```Develop the server-side```
+- ```Build the client application```
+- ```Implement SQL database operations```
+- ```Include image processing capabilities```
+- ```Develop a chat room for communication between buyers and sellers```
+- ```SMTP```
 ---
 ## Some Picture
 ### Log in and Register
