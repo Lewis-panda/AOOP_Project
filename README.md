@@ -5,7 +5,7 @@
 ---
 ## Completed Completed Functionalities
 - ```Create a user GUI interface```
-  ```Implement user account creation and login functionality```
+- ```Implement user account creation and login functionality```
 - ```Support both buyer and seller roles```
 - ```Allow buyers to search for products```
 - ```Enable sellers to list products```
