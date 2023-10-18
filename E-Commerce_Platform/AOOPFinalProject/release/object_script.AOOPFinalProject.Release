@@ -1,0 +1,10 @@
+release/clickablelabel.o
+release/client.o
+release/main.o
+release/mainwindow.o
+release/stmp.o
+release/qrc_Picture.o
+release/moc_clickablelabel.o
+release/moc_client.o
+release/moc_mainwindow.o
+release/moc_stmp.o
