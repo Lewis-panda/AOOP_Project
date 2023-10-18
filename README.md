@@ -1,6 +1,7 @@
 # E-commerce platforms (電商平台)
 
 ### Object Oriented Programming Project
+### Qt Creator
 ---
 ## Completed Completed Functionalities
 - ```Create a user GUI interface```
